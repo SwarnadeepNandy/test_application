@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="d21529b60f921300a7214f8ce1050efd" sys_domain="global" table="x_172562_test_appl_test_table_in_application_scope" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_json_field</element>
+            <position>0</position>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-05-29 15:11:16</sys_created_on>
+            <sys_id>1a1569b60f921300a7214f8ce1050e03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_172562_test_appl_test_table_in_application_scope" sys_domain="global" view="Default view">d21529b60f921300a7214f8ce1050efd</sys_ui_section>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-05-29 15:11:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_172562_test_appl_test_table_in_application_scope</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-05-29 15:11:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d21529b60f921300a7214f8ce1050efd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_172562_test_appl_test_table_in_application_scope</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test Application scoping" source="x_172562_test_appl">40febf050ff05300a7214f8ce1050e1c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application scoping">40febf050ff05300a7214f8ce1050e1c</sys_scope>
+            <sys_update_name>sys_ui_section_d21529b60f921300a7214f8ce1050efd</sys_update_name>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-05-29 15:11:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

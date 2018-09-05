@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,ess</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Swarnadeep</sys_created_by>
+        <sys_created_on>2018-08-03 12:19:58</sys_created_on>
+        <sys_id>24d6f4000f3f5300a7214f8ce1050e07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,ess</sys_name>
+        <sys_package display_value="Test Application scoping" source="x_172562_test_appl">40febf050ff05300a7214f8ce1050e1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application scoping">40febf050ff05300a7214f8ce1050e1c</sys_scope>
+        <sys_update_name>sys_ui_view_24d6f4000f3f5300a7214f8ce1050e07</sys_update_name>
+        <sys_updated_by>Swarnadeep</sys_updated_by>
+        <sys_updated_on>2018-08-03 12:19:58</sys_updated_on>
+        <title>Sys_popup,ess</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

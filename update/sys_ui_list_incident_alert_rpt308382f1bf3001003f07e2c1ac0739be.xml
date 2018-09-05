@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="incident_alert" version="2" view="RPT308382f1bf3001003f07e2c1ac0739be">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>74dff4300fd11300a7214f8ce1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>severity</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>7cdff4300fd11300a7214f8ce1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>fcdff4300fd11300a7214f8ce1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>source_incident</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>70dff4300fd11300a7214f8ce1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>f0dff4300fd11300a7214f8ce1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>bs_impact</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>74dff4300fd11300a7214f8ce1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="e0dff4300fd11300a7214f8ce1050eaa">b8dff4300fd11300a7214f8ce1050eea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_id>f4dff4300fd11300a7214f8ce1050eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>incident_alert</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>swarnadeep_nandy</sys_created_by>
+            <sys_created_on>2018-04-03 14:17:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8dff4300fd11300a7214f8ce1050eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident_alert</sys_name>
+            <sys_package display_value="Test Application scoping" source="x_172562_test_appl">40febf050ff05300a7214f8ce1050e1c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application scoping">40febf050ff05300a7214f8ce1050e1c</sys_scope>
+            <sys_update_name>sys_ui_list_incident_alert_RPT308382f1bf3001003f07e2c1ac0739be</sys_update_name>
+            <sys_updated_by>swarnadeep_nandy</sys_updated_by>
+            <sys_updated_on>2018-04-03 14:17:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt308382f1bf3001003f07e2c1ac0739be" name="RPT308382f1bf3001003f07e2c1ac0739be">e0dff4300fd11300a7214f8ce1050eaa</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

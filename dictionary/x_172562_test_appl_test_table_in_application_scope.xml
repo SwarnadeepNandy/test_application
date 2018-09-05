@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test table in application scope" max_length="40" name="x_172562_test_appl_test_table_in_application_scope" type="collection">
+        <element label="Test JSON field" max_length="4000" name="test_json_field" type="simple_name_values"/>
+    </element>
+</database>
